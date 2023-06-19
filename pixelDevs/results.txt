@@ -1,0 +1,46 @@
+RESULTS
+
+
+TEST IMAGE 1
+
+	No. of light-colored pollens: 34
+	No. of dark-colored pollens: 60
+	Pixel-to-micrometer Conversion: 3.49
+
+	Largest Dark Pollen:
+		Width (pix): 3840 
+		Height (pix): 2160 
+		Area (pix): 7874231 
+		Width (micrometer): 1100.2865329512892 
+		Height (micrometer): 618.9111747851002 
+		Area (micrometer): 2256226.64756447 
+
+	Largest Light Pollen:
+		Width (pix): 3840 
+		Height (pix): 2160
+		Area (pix): 8115158
+		Width (micrometer): 1100.2865329512892
+		Height (micrometer): 618.9111747851002
+		Area (micrometer): 2325260.1719197705
+
+TEST IMAGE 2
+
+	No. of light-colored pollens: 2
+	No. of dark-colored pollens: 15
+	Pixel-to-micrometer Conversion: 3.49
+
+	Largest Dark Pollen:
+		Width (pix): 3840
+		Height (pix): 2160
+		Area (pix): 8284185
+		Width (micrometer): 1100.2865329512892
+		Height (micrometer): 618.9111747851002
+		Area (micrometer): 2373691.9770773635
+
+	Largest Light Pollen:
+		Width (pix): 3840
+		Height (pix): 2160
+		Area (pix): 8204928
+		Width (micrometer): 1100.2865329512892
+		Height (micrometer): 618.9111747851002
+		Area (micrometer): 2350982.23495702
